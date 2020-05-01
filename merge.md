@@ -18,7 +18,7 @@ ___
     $ git merge --no-ff
 
 
-* Guarda la historia de las ramas.
+* Guarda la historia de las ramas....
 * Documenta que se hizo merge de otra rama, dejando un rastro y no fusiona de manera rapida.
 * Genera un commit para fusionar las dos ramas.
 
